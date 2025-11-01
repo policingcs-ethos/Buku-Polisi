@@ -21,10 +21,10 @@
     "cover": "https://raw.githubusercontent.com/policingcs-ethos/Buku-Polisi/main/Cover%20Booklet/Bhabinkamtibmas.jpg"
   },
   {
-    "id": "4",
-    "title": "Polri di Era Algoritma",
-    "author": "CSP Team",
-    "pdf": "https://raw.githubusercontent.com/policingcs-ethos/Buku-Polisi/main/Ebook%20Booklet/Polri_di_Era_Algoritma.pdf",
-    "cover": "https://raw.githubusercontent.com/policingcs-ethos/Buku-Polisi/main/Cover%20Booklet/Polri_di_Era_Algoritma.jpg"
-  }
+  "id": "X",
+  "title": "Polisi di Era Algoritma",
+  "author": "CSP Team",
+  "pdf": "https://raw.githubusercontent.com/policingcs-ethos/Buku-Polisi/main/Ebook%20Booklet/Polisi_di_Era_Algoritma.pdf",
+  "cover": "https://raw.githubusercontent.com/policingcs-ethos/Buku-Polisi/main/Cover%20Booklet/Polisi_di_Era_Algoritma.jpg"
+}
 ]
