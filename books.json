@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "title": "Basah dan Kering: Membaca Ulang Kultur Jabatan di Kepolisian",
+    "author": "CSP Team",
+    "pdf": "https://raw.githubusercontent.com/policingcs-ethos/Buku-Polisi/main/Ebook%20Booklet/Basah_dan_Kering_Membaca_Ulang_Kultur_Jabatan_di_Kepolisian.pdf",
+    "cover": "https://raw.githubusercontent.com/policingcs-ethos/Buku-Polisi/main/Cover%20Booklet/Basah_dan_Kering.jpg"
+  },
+  {
+    "id": "2",
+    "title": "Bayang-bayang Gelap Reformasi Polri",
+    "author": "CSP Team",
+    "pdf": "https://raw.githubusercontent.com/policingcs-ethos/Buku-Polisi/main/Ebook%20Booklet/Bayang_bayang_Gelap_Reformasi_Polri.pdf",
+    "cover": "https://raw.githubusercontent.com/policingcs-ethos/Buku-Polisi/main/Cover%20Booklet/Bayang_bayang_Gelap.jpg"
+  },
+  {
+    "id": "3",
+    "title": "Bhabinkamtibmas dalam Arus Reformasi Polri",
+    "author": "CSP Team",
+    "pdf": "https://raw.githubusercontent.com/policingcs-ethos/Buku-Polisi/main/Ebook%20Booklet/Bhabinkamtibmas_dalam_Arus_Reformasi_Polri.pdf",
+    "cover": "https://raw.githubusercontent.com/policingcs-ethos/Buku-Polisi/main/Cover%20Booklet/Bhabinkamtibmas.jpg"
+  },
+  {
+    "id": "4",
+    "title": "Polri di Era Algoritma",
+    "author": "CSP Team",
+    "pdf": "https://raw.githubusercontent.com/policingcs-ethos/Buku-Polisi/main/Ebook%20Booklet/Polri_di_Era_Algoritma.pdf",
+    "cover": "https://raw.githubusercontent.com/policingcs-ethos/Buku-Polisi/main/Cover%20Booklet/Polri_di_Era_Algoritma.jpg"
+  }
+]
